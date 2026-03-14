@@ -27,3 +27,4 @@ Then open http://localhost:8000 in your browser.
 - Replace **Your Name** and text content in `index.html`.
 - Swap placeholder links with your own project URLs.
 - Update colors, typography, and spacing in `styles.css`.
+# portfolio
